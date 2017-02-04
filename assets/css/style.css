@@ -1,5 +1,6 @@
 body {
- 	background-image: url("file:///C:/Users/rissa/Documents/Practice/assets/images/gplaypattern.png");
+
+ 	background-image: url("file:///C:/Users/rissa/Documents/Basic_Portfolio/assets/images/gplaypattern.PNG");
 }
 
 header {
@@ -188,4 +189,5 @@ footer {
 	padding-bottom: 8px;
 	position: relative;
 	top: 60px;
+
 }
