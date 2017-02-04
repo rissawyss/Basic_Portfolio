@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control Install",
+		"selected_items":
+		[
+			[
+				"Package Control Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rissa/Documents/Basic_Portfolio/index.html",
+		"/C/Users/rissa/Documents/CSSpositioning.html",
+		"/C/Users/rissa/Documents/stylesheet.css",
+		"/C/Users/rissa/Documents/HOMEWORK1/style.css",
+		"/C/Users/rissa/Documents/HOMEWORK1/index.html",
+		"/C/Users/rissa/Desktop/StupidName/first_day_stuff.html",
+		"/C/Users/rissa/Desktop/project1/index.html",
+		"/C/Users/rissa/Desktop/My_First_Website.html",
+		"/C/Users/rissa/Desktop/index.html",
+		"/C/Users/rissa/Documents/CSS-Pre-Work/index.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/2-ResetCSS/reset.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/1-MultipleCSS/2_CSS_Files/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/2-ResetCSS/Example.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/Homeworks/homework_1/Instructions/recommended-homework-assignment.md",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/1-MultipleCSS/3_CSS_Files/html-bio-with-css.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/1-MultipleCSS/2_CSS_Files/style2.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/1-MultipleCSS/2_CSS_Files/html-bio-with-css.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/Homeworks/homework_1/Instructions/easier-homework-assignment.md",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/1-MultipleCSS/1_CSS_File/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-30-17_01-31-17_Github-Pages_2.1/Activities/1-MultipleCSS/1_CSS_File/html-bio-with-css.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-25-17-01-26-17-HTML-CSS-Git-1.2/Activities_solved/3-HTML_CSS_Layout/html-bio-with-css.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-25-17-01-26-17-HTML-CSS-Git-1.2/Activities_solved/3-HTML_CSS_Layout/assets/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities_solved/5-CSS_PositionedLayout/main.html",
+		"/C/Users/rissa/Google Drive/BingoCard/RRbingocard.html",
+		"/C/Users/rissa/Documents/PREWORK_MJW/Module-10/index.html",
+		"/C/Users/rissa/Documents/PREWORK_MJW/Module-9/index.html",
+		"/C/Users/rissa/Documents/PREWORK_MJW/Module-8/fanpage.html",
+		"/C/Users/rissa/Documents/PREWORK_MJW/Module-7/BrokenCode/BooTheDog.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/3-FloatLayout-Activity/Unsolved/floats.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/5-CSS_PositionedLayout/main.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/5-CSS_PositionedLayout/relative.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/3-FloatLayout-Activity/Unsolved/floats.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/2-FloatExamples/layout-no-float.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/2-FloatExamples/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_4/HTML/html-bio.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_4/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_3/html-bio.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_1/html-bio.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_WorkingExample/html-bio-with-css.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_3/assets/style/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_2/assets/style.css",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_2/html-bio.html",
+		"/C/Users/rissa/Desktop/01-17-Class-Content/01-28-17-CSS-Floats-1.3/Activities/1-RelativePaths/RelativePaths_UNSOLVED/RelativePaths_1/style.css",
+		"/C/Users/rissa/nt.txt",
+		"/C/Users/rissa/Google Drive/BingoCard/bingo.js",
+		"/C/Users/rissa/Desktop/CandyProjet/firstrepo/studentbio.html",
+		"/C/Users/rissa/Google Drive/BingoCard/magiceightball.html",
+		"/C/Users/rissa/Google Drive/BingoCard/magic.js",
+		"/C/Users/rissa/Google Drive/PREWORK_MJW/Module-10/index.html",
+		"/C/Users/rissa/Google Drive/PREWORK_MJW/Module-10/javascript.js",
+		"/C/Users/rissa/Desktop/CandyProjet/firstrepo/StudentBio",
+		"/C/Users/rissa/Documents/PREWORK_MJW/Module-10/javascript.js",
+		"/C/Users/rissa/Desktop/fanpagetest.html",
+		"/C/Users/rissa/Desktop/OdetoChocolat.html",
+		"/C/Users/rissa/Documents/CSS-Pre-Work/style.css",
+		"/C/Users/rissa/Desktop/Broken_and_Working_Code/WorkingCode/GrumpyCat.html",
+		"/C/Users/rissa/Desktop/Broken_and_Working_Code/WorkingCode/style.css",
+		"/C/Users/rissa/Desktop/fanpage.html",
+		"/C/Users/rissa/Desktop/Broken_and_Working_Code/BrokenCode/logic.js",
+		"/C/Users/rissa/Desktop/Broken_and_Working_Code/BrokenCode/BooTheDog.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
